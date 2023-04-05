@@ -7,8 +7,8 @@ Aplicativo de receitas para Android
 - Receitas detalhadas
 
 ## Tecnologia e Ferramentas utilizadas :robot:
-- [VsCode]
-- [Expo]
+- [VsCode](https://code.visualstudio.com/)
+- [Expo](https://docs.expo.dev/)
 - [React Navigation](https://reactnavigation.org/docs/getting-started)
 - [Native Stack](https://reactnavigation.org/docs/hello-react-navigation)
 - [Button Tabs Navigator](https://reactnavigation.org/docs/bottom-tab-navigator)
