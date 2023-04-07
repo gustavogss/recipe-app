@@ -2,7 +2,7 @@
 Aplicativo de receitas para Android
 
 ## Features 
-- Mostrar todas as receitas
+- Listar as receitas com total de ingredientes e tempo de preparo
 - Favoritar receitas
 - Receitas detalhadas
 
@@ -12,6 +12,9 @@ Aplicativo de receitas para Android
 - [React Navigation](https://reactnavigation.org/docs/getting-started)
 - [Native Stack](https://reactnavigation.org/docs/hello-react-navigation)
 - [Button Tabs Navigator](https://reactnavigation.org/docs/bottom-tab-navigator)
+- [Json Server](https://github.com/typicode/json-server)
+- [Axios](https://www.npmjs.com/package/axios)
+- [Expo Linear Gradient](https://docs.expo.dev/versions/latest/sdk/linear-gradient/)
 
 ## Como utilizar :iphone:
 - Basta baixar a [apk](#) e instalar no seu celular Android
