@@ -3,8 +3,10 @@ Aplicativo de receitas para Android
 
 ## Features 
 - Listar as receitas com total de ingredientes e tempo de preparo
-- Favoritar receitas
-- Receitas detalhadas
+- Favoritar receitas e salvar no aplicativo
+- Detalhar a receita mostrando os ingrediente e instruções
+- Mostrar vídeo do youtube de como preparar a receita
+- Compartilhar a receita
 
 ## Tecnologia e Ferramentas utilizadas :robot:
 - [VsCode](https://code.visualstudio.com/)
