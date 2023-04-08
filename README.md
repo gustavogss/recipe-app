@@ -19,5 +19,9 @@ Aplicativo de receitas para Android
 - [Expo Linear Gradient](https://docs.expo.dev/versions/latest/sdk/linear-gradient/)
 - [Expo Vector Icons](https://docs.expo.dev/guides/icons/)
 
+## Testando a aplicação :runner:
+[Gravação de tela de 08-04-2023 01:02:35.webm](https://user-images.githubusercontent.com/20332960/230702418-5725a6f7-f9fe-41c3-b2c6-8c6a23f0b551.webm)
+
+
 ## Como utilizar :iphone:
 - Basta baixar a [apk](#) e instalar no seu celular Android
