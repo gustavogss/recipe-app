@@ -20,7 +20,7 @@ Aplicativo de receitas para Android
 - [Expo Vector Icons](https://docs.expo.dev/guides/icons/)
 
 ## Testando a aplicação :runner:
-[Gravação de tela de 08-04-2023 01:02:35.webm](https://user-images.githubusercontent.com/20332960/230702418-5725a6f7-f9fe-41c3-b2c6-8c6a23f0b551.webm)
+[Gravação de tela de 08-04-2023 01:08:39.webm](https://user-images.githubusercontent.com/20332960/230702578-8e350f7f-a965-4c04-be44-510d7fb4d2ce.webm)
 
 
 ## Como utilizar :iphone:
