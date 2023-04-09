@@ -12,10 +12,12 @@ import { Logo } from '../../components/Logo'
 import {Ionicons} from '@expo/vector-icons'
 import api from '../../services/api'
 import { FoodList } from '../../components/FoodList'
+import { useNavigation } from '@react-navigation/native'
 
 export function Home() {
-    const [inputValue, setInputValue] = useState("")
-    const [foods, setFoods]= useState([])
+    const [inputValue, setInputValue] = useState("");
+    const [foods, setFoods]= useState([]);
+    const navigation = useNavigation();
 
     useEffect(() => {
       async function fetchApi(){
@@ -27,6 +29,10 @@ export function Home() {
     
 
     function handleSearch() {
+      if(!inputValue) return;
+      let input = inputValue;
+      setInputValue("")
+      navigation.navigate("Search", {name: input}) 
         console.log(inputValue);
     }
 
