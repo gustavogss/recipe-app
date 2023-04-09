@@ -26,16 +26,15 @@ export function Details() {
     });
   }, [navigation, route.params.data]);
 
-  function handleOpenVideo() {
+  async function handleOpenVideo() {
     setShowVideo(true);
   }
 
   async function handleShare(){
     try {
-      await Share.share({        
-        message: `Receita: ${route.params?.data.name}\n 
-        Ingredientes: ${route.params?.data.total_ingredients}\n
-        Tempo: ${route.params?.data.time}\n
+      await Share.share({     
+        url: 'https://github.com/gustavogss/recipe-app',   
+        message: `Receita: ${route.params?.data.name} (${route.params?.data.total_ingredients} ingredientes)       
         - Vi lá no app Recipe app`
       })
     } catch (error) {
