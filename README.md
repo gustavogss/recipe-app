@@ -33,7 +33,7 @@ Aplicativo de receitas para Android
   ```
 - Rode o backend com o comando:
   ```
-  json-server --watch -d 180 --host ip.de.seu.compuador db.json  
+  json-server --watch -d 180 --host ip.de.seu.computador db.json  
   ```
 - Rode o projeto com o comando:
   ```
