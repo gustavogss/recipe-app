@@ -10,7 +10,7 @@ export function StackRoutes() {
   return (
     <Stack.Navigator>
       <Stack.Screen
-        name="Home"
+        name="HomeTab"
         component={Home}
         options={{ headerShown: false }}
       />

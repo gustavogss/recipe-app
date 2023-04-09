@@ -13,6 +13,7 @@ import {Ionicons} from '@expo/vector-icons'
 import api from '../../services/api'
 import { FoodList } from '../../components/FoodList'
 import { useNavigation } from '@react-navigation/native'
+import {Text as MotiText} from 'moti';
 
 export function Home() {
     const [inputValue, setInputValue] = useState("");
@@ -39,8 +40,38 @@ export function Home() {
   return (    
     <SafeAreaView style={styles.container}>
       <Logo />
-      <Text style={styles.title}>Encontre a receita</Text>
-      <Text style={styles.title}>que queira preparar</Text>
+      <MotiText 
+      style={styles.title}
+      from={{
+        opacity: 0,
+        translateY: 15,
+      }}
+      animated={{
+        opacity:1,
+        translateY: 0,
+      }}
+      transition={{
+        delay: 100,
+        type:'timing',
+        duration: 650
+      }}
+      >Encontre a receita</MotiText>
+      <MotiText 
+      style={styles.title}
+      from={{
+        opacity: 0,
+        translateY: 15,
+      }}
+      animated={{
+        opacity:1,
+        translateY: 0,
+      }}
+      transition={{
+        delay: 200,
+        type:'timing',
+        duration: 850
+      }}
+      >que combina com você</MotiText>
       <View style={styles.form}>
         <TextInput
         placeholder='Digite o nome da comida ...'

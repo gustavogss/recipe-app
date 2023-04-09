@@ -20,6 +20,9 @@ Aplicativo de receitas para Android
 - [Expo Vector Icons](https://docs.expo.dev/guides/icons/)
 - [Expo WebView](https://docs.expo.dev/versions/latest/sdk/webview/)
 - [Async Storage](https://docs.expo.dev/versions/latest/sdk/async-storage/)
+- [Moti](https://moti.fyi/installation)
+- [Expo Reanimated](https://docs.expo.dev/versions/latest/sdk/reanimated/)
+- [Gesture Handler](https://docs.expo.dev/versions/latest/sdk/gesture-handler/)
 
 ## Testando a aplicação :runner:
 [Gravação de tela de 08-04-2023 01:08:39.webm](https://user-images.githubusercontent.com/20332960/230702578-8e350f7f-a965-4c04-be44-510d7fb4d2ce.webm)
