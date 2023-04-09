@@ -34,7 +34,7 @@ export function Home() {
     <SafeAreaView style={styles.container}>
       <Logo />
       <Text style={styles.title}>Encontre a receita</Text>
-      <Text style={styles.title}>de queira preparar</Text>
+      <Text style={styles.title}>que queira preparar</Text>
       <View style={styles.form}>
         <TextInput
         placeholder='Digite o nome da comida ...'

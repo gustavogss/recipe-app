@@ -18,6 +18,7 @@ Aplicativo de receitas para Android
 - [Axios](https://www.npmjs.com/package/axios)
 - [Expo Linear Gradient](https://docs.expo.dev/versions/latest/sdk/linear-gradient/)
 - [Expo Vector Icons](https://docs.expo.dev/guides/icons/)
+- [Expo WebView](https://docs.expo.dev/versions/latest/sdk/webview/)
 
 ## Como utilizar :iphone:
 - Basta baixar a [apk](#) e instalar no seu celular Android
