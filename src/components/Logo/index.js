@@ -10,7 +10,7 @@ export function Logo() {
       opacity: 0,
       translateX: -50,
     }}
-    animated={{
+    animate={{
       opacity:1,
       translateX: 0,
     }}

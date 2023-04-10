@@ -51,7 +51,7 @@ export function Details() {
     }
   }
 
-  async function handleOpenVideo() {
+  function handleOpenVideo() {
     setShowVideo(true);
   }
 
