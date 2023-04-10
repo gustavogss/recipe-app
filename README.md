@@ -46,5 +46,4 @@ https://user-images.githubusercontent.com/20332960/230814347-31b66ac5-9ab3-46af-
   ```
   npx expo start
   ```
-  ## Como utilizar no seu dispositivo Android :iphone:
-- Basta [clicar aqui](https://github.com/gustavogss/recipe-app/releases/download/0.0.1/application-d78ac710-e41c-4df0-9e89-79a3cd69ac82.apk) para instalar o app no seu dispositivo Android
+  ## C
