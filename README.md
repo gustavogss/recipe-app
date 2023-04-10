@@ -46,4 +46,4 @@ https://user-images.githubusercontent.com/20332960/230814347-31b66ac5-9ab3-46af-
   ```
   npx expo start
   ```
-  ## C
+  
