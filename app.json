@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#F3F9FF"
-      }
+      },
+      "package": "com.gustavogss.recipeapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ee7bb2ff-ef57-4e2b-806b-bab83871c31f"
+      }
     }
   }
 }

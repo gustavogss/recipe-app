@@ -43,4 +43,4 @@ Aplicativo de receitas para Android
   npx expo start
   ```
   ## Como utilizar no seu dispositivo Android :iphone:
-- Basta baixar a [apk](#) e instalar no seu celular Android
+- Basta baixar a [apk](https://github.com/gustavogss/recipe-app/releases/edit/untagged-58a27b3ecd12cf4bad48) e instalar no seu celular Android
