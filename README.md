@@ -25,13 +25,13 @@ Aplicativo de receitas para Android
 - [Gesture Handler](https://docs.expo.dev/versions/latest/sdk/gesture-handler/)
 - [Flipper](https://fbflipper.com/)
 
-## Aplicação funcionando :runner:
+## Aplicação funcionando :iphone:
 
 https://user-images.githubusercontent.com/20332960/230814347-31b66ac5-9ab3-46af-9f6b-2d4e2f80f863.mp4
 
 
 
-## Como utilizar no emulador :iphone:
+## Como utilizar no emulador 
 - É necessário ter o node instalado em sua máquina
   
 - Depois clone o projeto e instale as dependencias com o comando:
